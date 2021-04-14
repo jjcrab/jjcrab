@@ -19,7 +19,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://icon-icons.com/icon/linkedin-logo/72681
+[2.2]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8HjkHSdZ6Isv5enO5HaEhTQ37kv0t2-5qbeoC_R_U4DK7ozCn0Rd46Cvs6jZMCLKVhUQ&usqp=CAU
 
 
 <!-- Links to your social media accounts -->
