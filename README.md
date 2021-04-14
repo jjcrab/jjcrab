@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>Hi there 👋</h2>
 <p>I am an ambitious full stack software engineer with a master’s degree in Finance and Risk Management & Insurance. Strong technical and analytical abilities combined with excellent interpersonal and communication skills position me for successful interaction with all professional levels. Passionate about app development and speak multiple languages.</p>
 
 [![jjcrab's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjcrab&theme=radical&show_icons=true)](https://github.com/jjcrab/github-readme-stats)
