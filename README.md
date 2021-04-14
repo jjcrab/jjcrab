@@ -14,7 +14,8 @@
 
 <!-- Actual text -->
 
-<h2>You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].</h2>
+<h2>You can find me on:</h2>
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
