@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![jjcrab's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjcrab&theme=radical&show_icons=true)](https://github.com/jjcrab/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjcrab&layout=compact)](https://github.com/yourUserName/github-readme-stats)
+
 <!--
 **jjcrab/jjcrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
