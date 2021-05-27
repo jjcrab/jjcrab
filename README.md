@@ -14,6 +14,7 @@
 
 
 <!-- Actual text -->
+My portfolio site is https://jingjingli-jl.com/
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png
